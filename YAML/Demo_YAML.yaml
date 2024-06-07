@@ -1,0 +1,30 @@
+#comment
+Students :
+  Student_1 :
+    name : "Amruta More"
+    age : 23
+    Passed : True
+    # List of Subjects
+    Subjects :
+      - Math
+      - English
+      - Science
+    # dictionary
+    Marks :
+      Math : 90
+      English : 97
+      Science : 87
+  Student_2 :
+    name : "Amruta Patil"
+    age : 24
+    Passed : True
+    # List of Subjects
+    Subjects :
+      - Math
+      - English
+      - Science
+    # dictionary
+    Marks :
+      Math : 96
+      English : 93
+      Science : 88
